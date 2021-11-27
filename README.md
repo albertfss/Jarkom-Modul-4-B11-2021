@@ -189,5 +189,4 @@ echo nameserver 192.168.122.1 > /etc/resolv.conf
 ```
 
 ## Kendala
-1. Sedikit bingung dengan pembagian subnet dan pembuatan pohon VLSM dan CIDR.
-2. Sedikit bingung dengan routing.
+
