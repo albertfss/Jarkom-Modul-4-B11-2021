@@ -131,31 +131,31 @@ Seastone
 ## GNS3 - CIDR
 ### Pembagian subnet
 **Langkah 1**
-![c1](https://user-images.githubusercontent.com/31863229/142777462-03a67e5a-f0e3-4b3a-9223-b0ea659e6fc0.png)
+![1](img/cidr_1.png)
 
 **Langkah 2**
-![g1](https://user-images.githubusercontent.com/31863229/142810611-684a1bbe-ae73-4aab-b6af-066ca8f4b5de.png)
+![2](img/cidr_2.png)
 
 **Langkah 3**
-![g2](https://user-images.githubusercontent.com/31863229/142810624-4624bd3d-4aba-46d8-8ff6-791b7d7b6ac9.png)
+![3](img/cidr_3.png)
 
 **Langkah 4**
-![g3](https://user-images.githubusercontent.com/31863229/142810638-386b21d0-db72-4910-9c44-83e4bb77d5d4.png)
+![4](img/cidr_4.png)
 
 **Langkah 5**
-![g4](https://user-images.githubusercontent.com/31863229/142810659-a6eb3d31-9f39-4485-a887-528b4991a923.png)
+![5](img/cidr_5.png)
 
 **Langkah 6**
-![g5](https://user-images.githubusercontent.com/31863229/142810676-1511d433-8618-47a0-8455-ca97d4463541.png)
+![6](img/cidr_6.png)
 
 **Langkah 7**
-![g6](https://user-images.githubusercontent.com/31863229/142810689-9edecc00-5d43-432a-84fd-f54066365f68.png)
+![7](img/cidr_7.png)
 
 **Hasil subnetting**
-![g7](https://user-images.githubusercontent.com/31863229/142810707-01d3c9a7-7030-45a5-9849-fc243a400e2b.png)
+![8](img/cidr_8.png)
 
 ### CIDR Tree
-![g8](https://user-images.githubusercontent.com/31863229/143030104-10faa525-ee24-4d32-aaaa-b598e6233d9e.png)
+![9](img/cidr_9.png)
 
 * Konfigurasi GNS3  
 
