@@ -13,7 +13,7 @@
 
 ## CPT - VLSM
 ### Pembagian subnet
-![c1](https://user-images.githubusercontent.com/31863229/142777462-03a67e5a-f0e3-4b3a-9223-b0ea659e6fc0.png)
+![1](img/cidr_1.png)
 
 ### Perhitungan subnet
 |Subnet|Jumlah IP|Netmask|
