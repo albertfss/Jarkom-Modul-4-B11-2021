@@ -34,7 +34,7 @@
 |**Total**|**5841**|**/19**|
 
 ### VLSM Tree
-![c2](https://user-images.githubusercontent.com/31863229/142777556-b5c3fa17-f9bd-427e-8cc3-a38e27724d5d.png)
+![v1](img/vlsm_1.png)
 
 ### Pembagian IP
 |Subnet|Network ID|Netmask|
