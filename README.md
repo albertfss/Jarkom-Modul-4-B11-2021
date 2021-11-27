@@ -154,11 +154,11 @@ Seastone
 **Hasil subnetting**
 ![8](img/cidr_8.png)
 
-
 ### CIDR Tree
 ![9](img/cidr_9.png)
 
 * Konfigurasi GNS3  
+
 
 Foosha
 ```
